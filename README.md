@@ -1,4 +1,4 @@
-# Welcome to **RK Studio's GitHub Profile** 🌟
+# Welcome to **RK Studio** 🌟
 
 ![GitHub Banner](https://via.placeholder.com/800x200/000000/FFFFFF/?text=RK+Studio+-+Innovation+Meets+Code)
 
@@ -70,7 +70,7 @@ Want to collaborate or just say hi? Reach out to me on any of these platforms:
 - **📸 Instagram:** [@rk_studio585](https://www.instagram.com/rk_studio585)
 - **🎥 YouTube:** [RK Studio](https://youtube.com/@rk_studio585)
 - **🔗 GitLab:** [RK Studio on GitLab](https://gitlab.com/mdriadkhanrk)
-- **📚 W3Schools:** [RK Riad](https://w3profile.com/rk_riad585)
+- **📚 W3Schools:** [RK Riad](https://www.w3profile.com/rk_riad585)
 - **💻 Google Developer Profile:** [RK Riad Dev](https://g.dev/rkriaddev)
 - **📝 Stack Overflow:** [RK Riad](https://stackoverflow.com/users/22367594/rk-riad)
 - **💬 Telegram:** [@RkRiad787](https://t.me/RkRiad787)

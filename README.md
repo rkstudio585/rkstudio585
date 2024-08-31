@@ -26,7 +26,7 @@ My journey in tech began with a curiosity to understand how things work, which h
 - ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-- ![XML](https://img.shields.io/badge/-XML-FFA500?style=for-the-badge) XML
+- ![XML](https://img.shields.io/badge/-XML-FFA500?style=for-the-badge)
 
 ---
 ### 🛠️ Frameworks & Libraries:

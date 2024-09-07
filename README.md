@@ -77,6 +77,7 @@ I'm always open to connecting with like-minded professionals, collaborating on e
 - **🌍 Personal Website:** [RK Studio](https://rkstudio.com)
 - **🐦 Twitter/X:** [@mrrkriad](https://x.com/mrrkriad)
 - **📘 Facebook:** [MD Riad Khan](https://www.facebook.com/rkriad585)
+- **🎥 Gmail:** [RK Email](mdriyadkhan585@gmail.com)
 - **📸 Instagram:** [@rk_studio585](https://www.instagram.com/rk_studio585)
 - **🎥 YouTube:** [RK Studio](https://youtube.com/@rk_studio585)
 - **💼 LinkedIn:** [MD Riad Khan](https://linkedin.com/in/md-riad-khan-764793284)

@@ -1,7 +1,7 @@
 # Welcome to RK Studio 🌟
 ---
 
-![GitHub Banner](https://via.placeholder.com/800x200/000000/FFFFFF/?text=RK+Studio+-+Innovation+Meets+Code)
+![GitHub Banner](github-header-image.png)
 
 ---
 ## 👋🏿 About Me

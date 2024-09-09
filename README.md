@@ -14,7 +14,7 @@ I'm **MD Riad Khan**, a passionate and driven software developer, ethical hacker
 My journey in tech began with a curiosity to understand how things work, which has evolved into a deep passion for coding and ethical hacking. I believe in continuous learning and adapting to new challenges, and I'm always exploring the latest trends and best practices in the tech world.
 
 ---
-
+![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ## 🚀 Tech Stack & Expertise
 ### 💻 Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +31,7 @@ My journey in tech began with a curiosity to understand how things work, which h
 - ![XML](https://img.shields.io/badge/-XML-FFA500?style=for-the-badge)
 
 ---
+![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ### 🛠️ Frameworks & Libraries:
 - ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 - ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -53,6 +54,7 @@ My journey in tech began with a curiosity to understand how things work, which h
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
+![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ### 🌱 Currently Learning:
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
@@ -71,7 +73,7 @@ My journey in tech began with a curiosity to understand how things work, which h
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-
+![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ## 🌐 Connect with Me
 
 I'm always open to connecting with like-minded professionals, collaborating on exciting projects, or simply discussing tech! Feel free to reach out to me via any of the platforms below:
@@ -91,18 +93,18 @@ I'm always open to connecting with like-minded professionals, collaborating on e
 - **📬 Telegram:** [@RkRiad787](https://t.me/RkRiad787)
 
 ---
-
+![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdriyadkhan585&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdriyadkhan585&layout=compact&theme=dark)
 
 ---
-
+![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdriyadkhan585&theme=onedark&no-frame=true)
 
 ---
-
+![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ## 📚 Resources & Best Practices
 While I currently don't maintain a blog, I highly recommend checking out these resources for best practices and insightful articles:
 

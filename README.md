@@ -79,13 +79,13 @@ My journey in tech began with a curiosity to understand how things work, which h
 I'm always open to connecting with like-minded professionals, collaborating on exciting projects, or simply discussing tech! Feel free to reach out to me via any of the platforms below:
 
 - **🌍 Personal Website:** [RK Studio](https://rkstudio.com)
-- **🐦 Twitter/X:** [@mrrkriad](https://x.com/mrrkriad)
+- **🐦 Twitter/X:** [@rk_riad585](https://x.com/rk_sriad585)
 - **📘 Facebook:** [MD Riad Khan](https://www.facebook.com/rkriad585)
 - **📧 Gmail:** [RK Email](mailto:mdriyadkhan585@gmail.com)
 - **📸 Instagram:** [@rk_studio585](https://www.instagram.com/rk_studio585)
 - **🎥 YouTube:** [RK Studio](https://youtube.com/@rk_studio585)
 - **💼 LinkedIn:** [MD Riad Khan](https://linkedin.com/in/md-riad-khan-764793284)
-- **🧵 Threads:** [@mdriadkhan77](https://threads.net/@mdriadkhan77)
+- **🧵 Threads:** [@rk_riad585](https://www.threads.net/@rk_riad585)
 - **🐱 GitLab:** [MD Riad Khan RK](https://gitlab.com/mdriadkhanrk)
 - **🎓 W3Schools Profile:** [RK Riad](w3profile.com/rk_riad585)
 - **👨‍💻 Google Developer:** [RK Riad](https://g.dev/rkriaddev)
@@ -95,13 +95,13 @@ I'm always open to connecting with like-minded professionals, collaborating on e
 ---
 ![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdriyadkhan585&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdriyadkhan585&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkstudio585&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkstudio585&layout=compact&theme=dark)
 
 ---
 ![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mdriyadkhan585&theme=onedark&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rkstudio585&theme=onedark&no-frame=true)
 
 ---
 ![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)

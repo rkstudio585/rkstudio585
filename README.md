@@ -114,6 +114,8 @@ While I currently don't maintain a blog, I highly recommend checking out these r
 - 🌐 [Mozilla Developer Network (MDN)](https://developer.mozilla.org/)
 
 ---
+<img src="https://raw.githubusercontent.com/rkstudio585/rkstudio585/output/snake.svg" alt="snake animation">
+
 
 ### Thank You for Visiting!
 Thank you for taking the time to check out my GitHub profile. I'm excited to share my work, collaborate with others, and continue learning and growing in this ever-evolving field.

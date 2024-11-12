@@ -81,7 +81,7 @@ My journey in tech began with a curiosity to understand how things work, which h
 I'm always open to connecting with like-minded professionals, collaborating on exciting projects, or simply discussing tech! Feel free to reach out to me via any of the platforms below:
 
 - **🌍 Personal Website:** [RK Studio](https://rkstudio.com)
-- **My Daly life Rooting** [RK Deep Mind](https://rk-deep-mind.vercel.app)
+- **⛹🏾‍♂️ My Daly life Rooting** [RK Deep Mind](https://rk-deep-mind.vercel.app)
 - **🐦 Twitter/X:** [@rk_riad585](https://x.com/rk_riad585)
 - **📘 Facebook:** [MD Riad Khan](https://www.facebook.com/rkriad585)
 - **📧 Gmail:** [Cleack To Email Me](mailto:mdriyadkhan585@gmail.com)

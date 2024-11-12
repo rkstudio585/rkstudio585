@@ -5,6 +5,8 @@
 
 ![Line](https://camo.githubusercontent.com/6b993f2bf355cb18295efbbbe2e255e9491c1decce78bb4b91965566047d7fc0/68747470733a2f2f692e696d6775722e636f6d2f3674753630764f2e676966)
 
+- **My Daly life Rooting** [RK Deep Mind](https://rk-deep-mind.vercel.app)
+
 ---
 ## 👋🏿 About Me
 I'm **MD Riad Khan**, a passionate and driven software developer, ethical hacker, and cybersecurity enthusiast. With a strong foundation in programming and a keen interest in emerging technologies, I thrive on solving complex problems and building innovative solutions.
@@ -79,9 +81,10 @@ My journey in tech began with a curiosity to understand how things work, which h
 I'm always open to connecting with like-minded professionals, collaborating on exciting projects, or simply discussing tech! Feel free to reach out to me via any of the platforms below:
 
 - **🌍 Personal Website:** [RK Studio](https://rkstudio.com)
-- **🐦 Twitter/X:** [@rk_riad585](https://x.com/rk_sriad585)
+- **My Daly life Rooting** [RK Deep Mind](https://rk-deep-mind.vercel.app)
+- **🐦 Twitter/X:** [@rk_riad585](https://x.com/rk_riad585)
 - **📘 Facebook:** [MD Riad Khan](https://www.facebook.com/rkriad585)
-- **📧 Gmail:** [RK Email](mailto:mdriyadkhan585@gmail.com)
+- **📧 Gmail:** [Cleack To Email Me](mailto:mdriyadkhan585@gmail.com)
 - **📸 Instagram:** [@rk_studio585](https://www.instagram.com/rk_studio585)
 - **🎥 YouTube:** [RK Studio](https://youtube.com/@rk_studio585)
 - **💼 LinkedIn:** [MD Riad Khan](https://linkedin.com/in/md-riad-khan-764793284)
